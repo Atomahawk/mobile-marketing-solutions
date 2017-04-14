@@ -24,23 +24,23 @@ The data was grouped by station and by date and time. Since the data was audited
 
 ### Results
 
-<img src='plot_1.png' height='700' width='700' align='center'></img>
+<img src='photos/plot_1.png' height='700' width='700' align='center'></img>
 
 Figure 1 shows that stations with a high amount of exit traffic in the mornings also have a high amount of entry traffic in the afternoon and evening. These stations can be identified as commuter stations since they adhere to exit and entry rates characteristic of commuter traffic. 
 
-<img src='CUPS_map.png' height='300' width='450' align='center'></img>
+<img src='photos/CUPS_map.png' height='300' width='450' align='center'></img>
 
 Figure 2 illustrates that the stations with high morning exit traffic are near areas with a high density of coffee shops.
 
-<img src='grand%20central%20exits%20by%20week_BIG.png' height='400' width='600' align='center'></img>
+<img src='photos/grand%20central%20exits%20by%20week_BIG.png' height='400' width='600' align='center'></img>
 
 Figure 3 shows that exit traffic is significantly higher on weekdays compared with weekends. Traffic is pretty consistent across weekedays.
 
-<img src='Grand%20central%20exits%20every%20four%20hours_BIG.png' height='400' width='600' align='center'></img>
+<img src='photos/Grand%20central%20exits%20every%20four%20hours_BIG.png' height='400' width='600' align='center'></img>
 
 Figure 4 illustrates there is both a morning peak and an evening peak for weekday exit traffic in Grand Central station. This illustrates potential for market expansion through partnerships with nightlife businesses.
 
-<img src='Grand_central_exits_by_day.png' height='400' width='600' align='center'></img>
+<img src='photos/Grand_central_exits_by_day.png' height='400' width='600' align='center'></img>
 
 Figure 5 illustrates that the best time to send push notifications with coffee discounts is between 8 AM and and 12 PM.
 
