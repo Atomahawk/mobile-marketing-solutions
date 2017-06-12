@@ -1,3 +1,7 @@
+Python  | Numpy | Pandas | Matplotlib 
+--------|-----|-----|---------
+[![PyPI](https://img.shields.io/badge/python-3.5-blue.svg)]() | [![PyPI version](https://badge.fury.io/py/numpy.svg)](https://badge.fury.io/py/numpy) | [![PyPI version](https://badge.fury.io/py/pandas.svg)](https://badge.fury.io/py/pandas) | [![PyPI version](https://badge.fury.io/py/matplotlib.svg)](https://badge.fury.io/py/matplotlib)
+
 # Marketing for Mobile
 
 Analytical marketing solutions for a mobile payment and coffee retail discovery platform in the New York City.
@@ -68,6 +72,8 @@ This analysis is also replicable across other transit systems with publicly avai
 
 ## Project Team
 
+Name | Email | Github
+--- | ---| --- 
 Andrew Tom | andrewtom.careers@gmail.com | https://github.com/Atomahawk
 Emily Miller | ejm714@gmail.com | https://github.com/ejm714
 Florian Philippi | florian@philippi.info | https://github.com/Flowinger
