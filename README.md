@@ -1,10 +1,10 @@
-# Project 1: Benson 
+# Marketing for Mobile
 
-### Team Members: Andrew, Emily, Florian, Paul
+Analytical marketing solutions for a mobile payment and coffee retail discovery platform in the New York City.
 
 ### Problem Statement
 
-The target market are commuters who use the Metropolitan Transportation Authority (MTA) system since commuters are highly likely to purchase coffee in the mornings before work. In order to increase the user base, advertisements would be posted in high-traffic MTA stations. Users would then be sent push notifications from the app to prompt them to purchase drinks or renew drink subscriptions at a wide-range of partnered independent coffee shops in proximity to their current MTA stations.
+Codenamed *Benson*, this project leveraged open Metropolitan Transportation Authority (MTA) turnstile data to grow users for the NY-based mobile payment and coffee discovery platform, Cups.  Commuters on the MTA are ideal users, since most are likely to purchase coffee in the mornings before work. In order to improve upon user acqusition efforts, print advertisements prioritize high-traffic MTA stations. Users on the platform could then be sent push notifications from the app to prompt them to purchase drinks or renew pre-paid drink subscriptions at a wide-range of partnered independent coffee shops in proximity to their current location.
 
 ### Analytical Approach
 
@@ -64,4 +64,11 @@ Since coffee is normally consumed in the morning, the app usage rate peaks durin
 
 The analysis can also be further improved by expanding the analysis to include previous months as well as new incoming data. With additional data, we can explore seasonality and see how subway traffic varies over time to further target ads.
 
-This analysis is also replicable across other transit systems with publicly available data, such as the Bay Area Rapid Transit (BART) system. This may prove to be a viable future project since the Client has partnerships within the San Francisco area
+This analysis is also replicable across other transit systems with publicly available data, such as the Bay Area Rapid Transit (BART) system. This may prove to be a viable future project since the Client has partnerships within the San Francisco area.
+
+## Project Team
+
+Andrew Tom | andrewtom.careers@gmail.com | https://github.com/Atomahawk
+Emily Miller | ejm714@gmail.com | https://github.com/ejm714
+Florian Philippi | florian@philippi.info | https://github.com/Flowinger
+Paul Lim | plim0793@gmail.com | https://github.com/plim0793
